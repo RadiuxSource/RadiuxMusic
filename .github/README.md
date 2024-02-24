@@ -6,12 +6,6 @@
   <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
 </p>
 
-
-
-<p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
-</p>
-
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
@@ -34,7 +28,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/RadiuxMusic && cd RadiuxMusic`
+`git clone https://github.com/RadiuxSource/RadiuxMusic && cd RadiuxMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
