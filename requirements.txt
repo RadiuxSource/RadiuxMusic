@@ -1,14 +1,14 @@
 aiofiles
-aiohttp
-asyncio
+aiohttp==3.8.4
+asyncio==3.4.3
 beautifulsoup4
 dnspython
 ffmpeg-python
 gitpython
 hachoir
 heroku3
-motor
-pillow
+motor==3.0.0
+pillow==9.5.0
 psutil
 py-tgcalls==0.9.7
 pykeyboard
@@ -20,6 +20,6 @@ speedtest-cli
 spotipy
 tgcrypto
 unidecode
-yt-dlp
+yt-dlp==2023.12.22.232735.dev0
 youtube-search
 youtube-search-python
