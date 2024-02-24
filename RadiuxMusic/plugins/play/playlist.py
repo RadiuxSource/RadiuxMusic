@@ -21,7 +21,7 @@ from RadiuxMusic.utils.decorators.language import language, languageCB
 from RadiuxMusic.utils.inline.playlist import (botplaylist_markup,
                                               get_playlist_markup,
                                               warning_markup)
-from RadiuxMusic.utils.pastebin import RadiuxBin
+from RadiuxMusic.utils.pastebin import AnonyBin
 import time
 import yt_dlp
 from youtube_search import YoutubeSearch
